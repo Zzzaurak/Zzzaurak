@@ -19,8 +19,8 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zzzaurak&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzzaurak&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Zzzaurak&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zzzaurak&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
