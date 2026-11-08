@@ -1,45 +1,41 @@
 # Hi there, I'm Zhang Ziheng (Zzzaurak) 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Tsinghua+University+|+Physics;Exploring+Astrophysics+%26+Computation;Building+Agent+Systems+%26+Scientific+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Undergraduate+in+Physics+@+Tsinghua;Passionate+about+Time-Domain+Astronomy;Exploring+Supernovae+Observation+%26+AI" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🌌 About Me
 
-- 🎓 Undergraduate in **Physics** at **Tsinghua University** (清华大学).
-- 🌌 Passionate about **Astrophysics**, **Computational Physics**, and **AI / Agent Applications**.
-- 🛠️ Currently developing scientific data pipelines, agent extensions, and tools bridging physics research and automation.
-- 🔭 Working on projects related to supernovae observation and computational physics.
+- 🎓 **Undergraduate** in Physics at **Tsinghua University** (清华大学物理系本科在读).
+- 🔭 **Research Interests:**
+  - **Astronomy & Astrophysics:** Special focus on **Time-Domain Astronomy** and observational research on **Supernovae**.
+  - **Artificial Intelligence:** Keen interest in modern AI technologies and applying computational / AI methods to astronomical data and scientific workflows.
+- 💻 **Tech & Tools:** Python (Data Analysis / Scientific Computing), Git, Linux, and exploring new scientific computing tools.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 📊 GitHub Activity
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br/>
-  <!-- Domains & Frameworks -->
-  <img src="https://img.shields.io/badge/Physics-Computational_Astrophysics-blue?style=flat-square&logo=nasa&logoColor=white" alt="Physics" />
-  <img src="https://img.shields.io/badge/AI_Agents-Automation-orange?style=flat-square&logo=openai&logoColor=white" alt="Agents" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zzzaurak&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzzaurak&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zzzaurak&theme=radical&hide_border=true" width="94%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact & Connect
 
-- 🏛 **Institution:** Tsinghua University (清华大学)
+- 🏫 **Institution:** Tsinghua University (清华大学)
+- ✉️ **Email:** [zhangzh24@mails.tsinghua.edu.cn](mailto:zhangzh24@mails.tsinghua.edu.cn)
 - 🌐 **GitHub:** [@Zzzaurak](https://github.com/Zzzaurak)
-- 📬 **Website:** [tsinghua.edu.cn](https://www.tsinghua.edu.cn)
 
 ---
 <p align="center">
-  <i>"Ad astra per aspera."</i>
+  <i>"Per aspera ad astra."</i>
 </p>
